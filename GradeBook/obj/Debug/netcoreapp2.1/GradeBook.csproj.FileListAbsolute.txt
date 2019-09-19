@@ -1,0 +1,10 @@
+C:\Users\breag\source\repos\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.deps.json
+C:\Users\breag\source\repos\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.json
+C:\Users\breag\source\repos\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.dev.json
+C:\Users\breag\source\repos\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\breag\source\repos\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.pdb
+C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
+C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
