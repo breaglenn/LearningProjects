@@ -8,3 +8,14 @@ C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.Assembly
 C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
 C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
 C:\Users\breag\source\repos\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
+C:\GitHub\LearningProjects\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csprojAssemblyReference.cache
+C:\GitHub\LearningProjects\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\GitHub\LearningProjects\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfoInputs.cache
+C:\GitHub\LearningProjects\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
+C:\GitHub\LearningProjects\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
+C:\GitHub\LearningProjects\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
+C:\GitHub\LearningProjects\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.deps.json
+C:\GitHub\LearningProjects\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.json
+C:\GitHub\LearningProjects\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.dev.json
+C:\GitHub\LearningProjects\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.dll
+C:\GitHub\LearningProjects\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.pdb
