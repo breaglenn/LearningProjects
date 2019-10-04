@@ -3,3 +3,15 @@ C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\ClassL
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Autofac.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Autofac.Integration.WebApi.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\System.Net.Http.Formatting.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\System.Web.Http.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Autofac.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Autofac.Integration.WebApi.pdb
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Autofac.Integration.WebApi.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\System.Net.Http.Formatting.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\System.Web.Http.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\obj\Debug\OdeToFood.Data.csproj.CopyComplete
