@@ -15,3 +15,9 @@ C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\Newton
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\System.Net.Http.Formatting.xml
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\System.Web.Http.xml
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\obj\Debug\OdeToFood.Data.csproj.CopyComplete
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\ClassLibrary1\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache

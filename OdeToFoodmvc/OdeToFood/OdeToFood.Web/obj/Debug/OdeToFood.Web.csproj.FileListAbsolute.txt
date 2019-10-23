@@ -93,3 +93,8 @@ C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Inte
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.pdb
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
 C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\ClassLibrary1.dll.config
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+C:\GitHub\LearningProjects\OdeToFoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml
